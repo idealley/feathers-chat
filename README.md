@@ -1,5 +1,7 @@
 # feathers-chat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/idealley/feathers-chat.svg)](https://greenkeeper.io/)
+
 > This is just a getting started tutorial
 
 ## About
